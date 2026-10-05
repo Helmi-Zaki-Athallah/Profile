@@ -1,0 +1,101 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+    background-color: #0e0e11;
+    color: #f4f4f5;
+    font-family: 'Inter', system-ui, -apple-system, sans-serif;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  /* Custom Smooth Scrollbar */
+  ::-webkit-scrollbar {
+    width: 6px;
+  }
+  ::-webkit-scrollbar-track {
+    background: #0e0e11;
+  }
+  ::-webkit-scrollbar-thumb {
+    background: #2a2a36;
+    border-radius: 9999px;
+  }
+  ::-webkit-scrollbar-thumb:hover {
+    background: #455CE9;
+  }
+
+  /* Body and HTML scroll lock when modal/lightbox/popup is active */
+  html.modal-open,
+  body.modal-open {
+    overflow: hidden !important;
+    touch-action: none;
+    overscroll-behavior: none;
+  }
+}
+
+@layer utilities {
+  .font-bebas {
+    font-family: 'Bebas Neue', sans-serif;
+  }
+  .font-editorial {
+    font-family: 'Playfair Display', Georgia, serif;
+  }
+
+  /* Lightweight hardware-accelerated text outline */
+  .text-outline {
+    -webkit-text-stroke: 1.5px rgba(255, 255, 255, 0.18);
+    color: transparent;
+  }
+  .text-outline-thick {
+    -webkit-text-stroke: 2px rgba(255, 255, 255, 0.12);
+    color: transparent;
+  }
+
+  /* Performance optimization: Content visibility for below-the-fold content */
+  .content-visibility-auto {
+    content-visibility: auto;
+    contain-intrinsic-size: 1px 700px;
+  }
+}
+
+/* Continuous High-Performance GPU-Accelerated Running Text Marquee */
+@keyframes continuous-marquee {
+  0% {
+    transform: translate3d(0, 0, 0);
+  }
+  100% {
+    transform: translate3d(-50%, 0, 0);
+  }
+}
+
+.running-text-track {
+  display: flex;
+  width: max-content;
+  animation: continuous-marquee 50s linear infinite;
+  will-change: transform;
+  transform: translate3d(0, 0, 0);
+}
+
+.running-text-track:hover {
+  animation-play-state: paused;
+}
+
+/* Soundwave Equalizer Animation */
+@keyframes soundwave {
+  0%, 100% {
+    height: 4px;
+    opacity: 0.6;
+  }
+  50% {
+    height: 18px;
+    opacity: 1;
+  }
+}
+
+.animate-soundwave {
+  animation: soundwave 0.85s ease-in-out infinite alternate;
+}

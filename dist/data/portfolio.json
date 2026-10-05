@@ -1,0 +1,901 @@
+{
+  "personalInfo": {
+    "name": "Helmi Zaki Athallah",
+    "firstName": "HELMI",
+    "middleName": "ZAKI",
+    "lastName": "ATHALLAH",
+    "fullCaps": "HELMI ZAKI ATHALLAH",
+    "initials": "HZA",
+    "email": "athallahhelmi2@gmail.com",
+    "emailAlt": "helmiathallah2@gmail.com",
+    "phone": "(+62) 859 2500 5036",
+    "whatsapp": "https://wa.me/6285925005036",
+    "location": "Kab. Bogor, Jawa Barat, Indonesia",
+    "campus": "Universitas Pamulang (UNPAM)",
+    "faculty": "Fakultas Teknik - Teknik Elektro",
+    "linkedin": "https://www.linkedin.com/in/helmi-zaki",
+    "instagram": "https://www.instagram.com/athl.lahh?igsh=MWF3dWlkN21memNucw==",
+    "instagramHandle": "@athl.lahh",
+    "github": "https://github.com/",
+    "tagline": {
+      "id": "Membangun Pengalaman Digital & Rekayasa Web Berkinerja Tinggi",
+      "en": "Engineering High-Performance Digital Experiences & Scalable Web Solutions"
+    },
+    "subHeadline": {
+      "id": "Founder & Lead Web Engineer di Z-Code Studio, berdedikasi merekayasa website berkonversi tinggi, arsitektur modern, dan solusi digital performa tinggi.",
+      "en": "Founder & Lead Web Engineer at Z-Code Studio, dedicated to engineering high-converting websites, modern architectures, and performance-driven digital solutions."
+    },
+    "roleLabel": {
+      "id": "Founder Z-Code Studio & Web Engineer",
+      "en": "Founder of Z-Code Studio & Web Engineer"
+    },
+    "aboutParagraphs": {
+      "id": [
+        "Saya adalah seorang Web Engineer dan Founder dari Z-Code Creative Studio, sebuah studio rekayasa web yang berfokus membangun landing page berkonversi tinggi, company profile profesional, serta aplikasi bisnis modern. Dengan pendekatan engineering yang presisi, saya mendedikasikan diri untuk menghadirkan platform digital yang tidak hanya berestetika premium, namun juga memiliki kecepatan akses instan (< 0.8s) dan arsitektur bebas bug.",
+        "Keahlian teknis saya mencakup ekosistem modern React, Tailwind CSS, Vite, arsitektur backend Node.js/Express, hingga manajemen performa WordPress tingkat lanjut (Elementor & LiteSpeed). Di sisi kepemimpinan dan operasional, saya memiliki pengalaman memimpin koordinasi logistik komunitas untuk 100+ peserta bersama IYMPACK, sekaligus merancang dan meluncurkan portal digital organisasi mereka.",
+        "Didukung fondasi akademis di bidang Teknik Elektro (sistem logika, elektronika, dan instrumentasi) serta pemanfaatan alat AI dalam alur kerja digital, saya memandang setiap proyek web sebagai rekayasa sistem yang terukur. Saya selalu antusias untuk berkolaborasi dalam proyek freelance, konsultasi web development, dan kemitraan digital strategis."
+      ],
+      "en": [
+        "I am a Web Engineer and the Founder of Z-Code Creative Studio, a web engineering firm focused on building high-converting landing pages, corporate profiles, and modern business applications. Combining an engineering mindset with clean design, I specialize in crafting digital solutions that pair luxury aesthetics with sub-second (< 0.8s) load speeds and rock-solid reliability.",
+        "My technical expertise spans the modern React ecosystem, Tailwind CSS, Vite, Node.js/Express backend architectures, as well as advanced WordPress performance optimization (Elementor & LiteSpeed). On the leadership and operations front, I have hands-on experience directing community logistics for over 100 participants with IYMPACK, alongside engineering and launching their central organization portal.",
+        "Backed by an academic foundation in Electrical Engineering (logic circuits, instrumentation, and systems) and active integration of AI workflows, I approach every web project as an engineered, measurable system. I am always open to freelance collaborations, web engineering consultations, and strategic digital partnerships."
+      ]
+    },
+    "stats": {
+      "id": [
+        {
+          "value": "< 0.8s",
+          "label": "Target Waktu Muat (PageSpeed)"
+        },
+        {
+          "value": "100%",
+          "label": "Responsif & Mobile-Optimized"
+        },
+        {
+          "value": "100+",
+          "label": "Peserta Komunitas Dikoordinasikan"
+        },
+        {
+          "value": "2",
+          "label": "Sertifikasi Resmi Terverifikasi"
+        }
+      ],
+      "en": [
+        {
+          "value": "< 0.8s",
+          "label": "Average PageSpeed Load Target"
+        },
+        {
+          "value": "100%",
+          "label": "Responsive & Performance Optimized"
+        },
+        {
+          "value": "100+",
+          "label": "Community Participants Coordinated"
+        },
+        {
+          "value": "2",
+          "label": "Official Verified Certifications"
+        }
+      ]
+    }
+  },
+  "experiences": [
+    {
+      "role": {
+        "id": "Founder & Lead Web Engineer",
+        "en": "Founder & Lead Web Engineer"
+      },
+      "company": "Z-Code Creative Studio",
+      "duration": {
+        "id": "2026 – Sekarang",
+        "en": "2026 – Present"
+      },
+      "type": {
+        "id": "Studio Digital & Agensi",
+        "en": "Digital Studio & Agency"
+      },
+      "description": {
+        "id": "Mendirikan dan memimpin studio rekayasa web yang merancang landing page berkonversi tinggi, company profile profesional, dan aplikasi bisnis modern dengan performa sub-detik (< 0.8s) untuk pelaku bisnis dan UMKM.",
+        "en": "Founded and leading a web engineering studio designing high-converting landing pages, corporate profiles, and modern business apps with sub-second (< 0.8s) performance for businesses and enterprises."
+      },
+      "tags": [
+        "React.js",
+        "Tailwind CSS",
+        "Vite",
+        "Node.js",
+        "Web Engineering",
+        "UI/UX Design",
+        "Performance Optimization"
+      ],
+      "icon": "/projects/zcode-og.png"
+    },
+    {
+      "role": {
+        "id": "Web Developer",
+        "en": "Web Developer"
+      },
+      "company": "IYMPACK Community",
+      "duration": {
+        "id": "2026 – Sekarang",
+        "en": "2026 – Present"
+      },
+      "type": {
+        "id": "Organisasi / Freelance",
+        "en": "Organization / Freelance"
+      },
+      "description": {
+        "id": "Membangun website responsif, mengkustomisasi plugin dan tema WordPress, serta mengelola optimasi performa web untuk klien independen dan portal organisasi. Berfokus menghadirkan solusi digital yang rapi, fungsional, dan ramah pengguna.",
+        "en": "Building responsive websites, customizing WordPress plugins and themes, and managing web performance optimization for independent clients and organization portals. Focused on delivering clean, functional, and user-friendly digital solutions."
+      },
+      "tags": [
+        "Web Development",
+        "WordPress",
+        "UI/UX Design",
+        "Elementor",
+        "HTML/CSS",
+        "Yoast SEO",
+        "Performance Optimization"
+      ],
+      "icon": "/foto/iympack-logo.png"
+    },
+    {
+      "role": {
+        "id": "Koordinator Logistik",
+        "en": "Logistics Coordinator"
+      },
+      "company": "IYMPACK Community",
+      "duration": {
+        "id": "Mei 2025 – Mei 2026",
+        "en": "May 2025 – May 2026"
+      },
+      "type": {
+        "id": "Kepemimpinan Komunitas",
+        "en": "Community Leadership"
+      },
+      "description": {
+        "id": "Mengoordinasikan logistik lapangan untuk proyek komunitas yang melibatkan lebih dari 100 peserta. Bertanggung jawab penuh atas survei lokasi, perencanaan sumber daya, dan alokasi kebutuhan lintas tim.",
+        "en": "Coordinated field logistics for a community project involving over 100 participants. Held full responsibility for site surveys, resource planning, and the allocation of cross-team requirements."
+      },
+      "tags": [
+        "Logistics Management",
+        "Team Coordination",
+        "Operations",
+        "Field Survey",
+        "Resource Allocation"
+      ],
+      "icon": "/foto/iympack-logo.png"
+    }
+  ],
+  "projectCaseStudies": [
+    {
+      "id": "iympack-id",
+      "slug": "iympack-id",
+      "title": "IYMPACK.id",
+      "fullTitle": {
+        "id": "IYMPACK.id — Portal Relawan & Komunitas",
+        "en": "IYMPACK.id — Volunteer & Community Portal"
+      },
+      "subtitle": {
+        "id": "Platform relawan siap-AI dan portal manajemen inisiatif kemanusiaan.",
+        "en": "AI-ready volunteer platform and humanitarian initiative management portal."
+      },
+      "tagline": {
+        "id": "Platform Relawan & Komunitas dibangun dengan WordPress, Elementor, dan Custom CSS",
+        "en": "Volunteer & Community Platform built with WordPress, Elementor, and Custom CSS"
+      },
+      "category": {
+        "id": "WordPress & Elementor",
+        "en": "WordPress & Elementor"
+      },
+      "badge": {
+        "id": "Teknologi Relawan",
+        "en": "Volunteer Tech"
+      },
+      "year": "2026",
+      "image": "/projects/Cuplikan-layar-2026-08-07-160114.png",
+      "liveUrl": "https://iympack.id",
+      "overview": {
+        "id": "IYMPACK.id adalah portal organisasi yang cerdas dan ramah pengguna, dirancang untuk mendukung operasional dan keterlibatan komunitas IYMPACK (Indonesia Yuwana Muda Peduli Aksi Cinta Kasih). Situs ini berfungsi sebagai pusat informasi program, pendaftaran relawan, dan etalase inisiatif kemanusiaan.",
+        "en": "IYMPACK.id is an intelligent, user-friendly organizational portal designed to support the operations and community engagement of IYMPACK (Indonesia Yuwana Muda Peduli Aksi Cinta Kasih). The site serves as a central hub for program information, volunteer registrations, and humanitarian initiative showcases."
+      },
+      "problem": {
+        "id": "Para relawan dan pemuda antusias sebelumnya belum memiliki wadah digital terpadu untuk terhubung, mengakses jadwal kegiatan terverifikasi, mendaftar aksi sosial, dan mengoordinasikan logistik regional di seluruh Indonesia.",
+        "en": "Travelers and passionate youth lacked a unified digital hub to connect, access verified event itineraries, register for volunteer social initiatives, and coordinate regional logistic deployments across Indonesia."
+      },
+      "details": {
+        "role": {
+          "id": "Web Developer & Koordinator Logistik",
+          "en": "Web Developer & Logistics Coordinator"
+        },
+        "timeline": {
+          "id": "Jan 2026 – Sekarang",
+          "en": "Jan 2026 – Present"
+        },
+        "scope": {
+          "id": "Desain UI/UX, tata letak kustom Elementor, otomasi WPForms, caching LiteSpeed, dan optimasi SEO.",
+          "en": "UI/UX design, custom Elementor layouts, WPForms automations, LiteSpeed caching, and SEO optimization."
+        }
+      },
+      "metrics": {
+        "id": [
+          {
+            "label": "Relawan Terlibat",
+            "value": "100+"
+          },
+          {
+            "label": "Waktu Muat",
+            "value": "< 1.5s"
+          },
+          {
+            "label": "Responsif Mobile",
+            "value": "100%"
+          },
+          {
+            "label": "Uptime Platform",
+            "value": "99.9%"
+          }
+        ],
+        "en": [
+          {
+            "label": "Volunteers Engaged",
+            "value": "100+"
+          },
+          {
+            "label": "Load Time",
+            "value": "< 1.5s"
+          },
+          {
+            "label": "Mobile Responsive",
+            "value": "100%"
+          },
+          {
+            "label": "Platform Uptime",
+            "value": "99.9%"
+          }
+        ]
+      },
+      "features": {
+        "id": [
+          {
+            "title": "Pendaftaran Relawan Mulus",
+            "desc": "Formulir online bertahap otomatis yang menangkap data peserta, kontak darurat, dan preferensi keahlian secara tersinkronisasi aman."
+          },
+          {
+            "title": "Etalase Program Interaktif",
+            "desc": "Linimasa visual terstruktur dari inisiatif pendidikan komunitas, tanggap bencana, dan pemberdayaan pemuda yang sedang berjalan."
+          },
+          {
+            "title": "Arsitektur Caching Performa Tinggi",
+            "desc": "Direkayasa dengan LiteSpeed Cache dan pengiriman media WebP untuk menangani lonjakan lalu lintas pendaftaran dengan lancar."
+          },
+          {
+            "title": "Navigasi Sentuh Mobile-First",
+            "desc": "Navigasi drawer yang mulus, ukuran tombol sentuh yang optimal, dan tipografi responsif untuk semua perangkat Android & iOS."
+          }
+        ],
+        "en": [
+          {
+            "title": "Seamless Volunteer Registration",
+            "desc": "Automated multi-step online forms capturing participant data, emergency contacts, and skill preferences synced securely."
+          },
+          {
+            "title": "Interactive Program Showcase",
+            "desc": "Structured visual timeline of ongoing community education, disaster relief, and youth empowerment initiatives."
+          },
+          {
+            "title": "High-Performance Caching Architecture",
+            "desc": "Engineered with LiteSpeed Cache and WebP image delivery to handle high-traffic registration surges smoothly."
+          },
+          {
+            "title": "Mobile-First Touch Navigation",
+            "desc": "Fluid drawer navigation, optimal tap targets, and responsive typography optimized for all Android and iOS devices."
+          }
+        ]
+      },
+      "challenges": {
+        "id": [
+          {
+            "challenge": "Lonjakan lalu lintas tinggi saat batas akhir pendaftaran rekrutmen relawan nasional.",
+            "solution": "Menerapkan aturan LiteSpeed caching server-side yang agresif, optimasi indeks database, dan kompresi media WebP."
+          },
+          {
+            "challenge": "Ukuran layar smartphone yang beragam di kalangan relawan pemuda dari berbagai daerah.",
+            "solution": "Merancang breakpoint CSS kustom dan layout flex/grid responsif untuk memastikan kemudahan penggunaan di semua ukuran layar."
+          }
+        ],
+        "en": [
+          {
+            "challenge": "High traffic spikes during nationwide volunteer recruitment registration deadlines.",
+            "solution": "Implemented aggressive server-side LiteSpeed caching rules, database index optimization, and WebP media compression."
+          },
+          {
+            "challenge": "Varied smartphone screen sizes across diverse regional youth volunteers.",
+            "solution": "Crafted custom CSS media breakpoints and responsive flex/grid layouts ensuring flawless usability across all screen sizes."
+          }
+        ]
+      },
+      "learnings": {
+        "id": [
+          "Menguasai arsitektur produksi WordPress end-to-end untuk organisasi nirlaba bervolume tinggi.",
+          "Mendapatkan keahlian mendalam dalam menyeimbangkan konten multimedia kaya dengan waktu muat PageSpeed sub-1.5 detik.",
+          "Belajar menyelaraskan deployment teknis web dengan operasional logistik lapangan di dunia nyata."
+        ],
+        "en": [
+          "Mastered end-to-end WordPress production architecture for high-volume non-profit organizations.",
+          "Gained deep expertise in balancing rich multimedia content with sub-1.5s PageSpeed load times.",
+          "Learned to coordinate technical web deployments with real-world ground logistics operations."
+        ]
+      },
+      "roadmap": {
+        "id": [
+          "Sistem verifikasi sertifikat relawan digital dengan kode QR unik.",
+          "Integrasi payment gateway donasi otomatis (Midtrans / Xendit).",
+          "Peta dampak regional interaktif yang melacak aktivitas relawan di seluruh Indonesia."
+        ],
+        "en": [
+          "Digital volunteer certificate verification system with unique QR codes.",
+          "Integration with automated donation payment gateways (Midtrans / Xendit).",
+          "Interactive regional impact map tracking volunteer activities across Indonesia."
+        ]
+      },
+      "techStack": {
+        "frontend": [
+          "HTML5",
+          "Custom CSS3",
+          "JavaScript (ES6+)"
+        ],
+        "cms": [
+          "WordPress",
+          "Elementor",
+          "Astra Theme"
+        ],
+        "optimization": [
+          "LiteSpeed Cache",
+          "Yoast SEO",
+          "WebP Converter"
+        ],
+        "tools": [
+          "WPForms",
+          "Canva Pro",
+          "Git / GitHub"
+        ]
+      },
+      "gallery": [
+        "/projects/Cuplikan-layar-2026-08-07-160114.png",
+        "/projects/Cuplikan-layar-2026-07-21-082150.png",
+        "/projects/Cuplikan-layar-2026-07-21-082211.png",
+        "/projects/Cuplikan-layar-2026-08-07-192622.png"
+      ]
+    },
+    {
+      "id": "zcode-agency",
+      "slug": "zcode-agency",
+      "title": "Z-Code Studio",
+      "fullTitle": {
+        "id": "Z-Code Creative Studio — High-Converting Web & App Engineering",
+        "en": "Z-Code Creative Studio — High-Converting Web & App Engineering"
+      },
+      "subtitle": {
+        "id": "Studio Web Engineering & Desain UI/UX spesialis landing page, company profile, dan aplikasi bisnis modern.",
+        "en": "Web Engineering & UI/UX Studio specializing in high-converting landing pages, corporate profiles, and modern business apps."
+      },
+      "tagline": {
+        "id": "Website & Aplikasi Berkelas. Lebih Banyak Klien. Rekayasa Web Ultra Cepat (< 0.8s).",
+        "en": "High-Class Websites & Apps. More Clients. Ultra-Fast Web Engineering (< 0.8s)."
+      },
+      "category": {
+        "id": "Web Engineering & Studio Agency",
+        "en": "Web Engineering & Studio Agency"
+      },
+      "badge": {
+        "id": "Creative Web Studio",
+        "en": "Creative Web Studio"
+      },
+      "year": "2026",
+      "image": "/projects/zcode-showcase.png",
+      "liveUrl": "https://zcode.agency",
+      "overview": {
+        "id": "Z-Code Creative Studio adalah platform studio rekayasa web dan agensi digital yang didirikan oleh Helmi Zaki Athallah. Z-Code berfokus merekayasa landing page berkonversi tinggi, company profile korporat profesional, platform e-commerce, serta aplikasi kasir cloud modern dengan jaminan kecepatan muat sub-detik (< 0.8s), desain luxury, dan arsitektur bebas bug.",
+        "en": "Z-Code Creative Studio is a web engineering platform and digital studio founded by Helmi Zaki Athallah. Z-Code focuses on engineering high-converting landing pages, professional corporate profiles, e-commerce platforms, and modern cloud POS applications with guaranteed sub-second (< 0.8s) load speeds, luxury aesthetics, and bug-free architecture."
+      },
+      "problem": {
+        "id": "Banyak pemilik bisnis dan korporasi kehilangan potensi klien akibat website lambat, tampilan visual yang kurang kredibel, serta minimnya optimasi alur konversi penjualan dan integrasi sistem operasional.",
+        "en": "Many business owners and enterprises lose potential clients due to sluggish websites, outdated non-credible aesthetics, and poor conversion funnel optimization or operational system integrations."
+      },
+      "details": {
+        "role": {
+          "id": "Founder & Lead Web Engineer",
+          "en": "Founder & Lead Web Engineer"
+        },
+        "timeline": {
+          "id": "2026 – Sekarang",
+          "en": "2026 – Present"
+        },
+        "scope": {
+          "id": "Arsitektur frontend performa tinggi, desain UI/UX interaktif, sistem manajemen konten mandiri, integrasi API, dan deployment cloud.",
+          "en": "High-performance frontend architecture, interactive UI/UX design, self-managed content CMS, API integrations, and cloud deployment."
+        }
+      },
+      "metrics": {
+        "id": [
+          {
+            "label": "Waktu Muat Rata-rata",
+            "value": "< 0.8s"
+          },
+          {
+            "label": "Peningkatan Konversi",
+            "value": "+120%"
+          },
+          {
+            "label": "Skor PageSpeed",
+            "value": "100/100"
+          },
+          {
+            "label": "Klien Kelola Mandiri",
+            "value": "99%"
+          }
+        ],
+        "en": [
+          {
+            "label": "Average Load Time",
+            "value": "< 0.8s"
+          },
+          {
+            "label": "Conversion Lift",
+            "value": "+120%"
+          },
+          {
+            "label": "PageSpeed Score",
+            "value": "100/100"
+          },
+          {
+            "label": "Self-Managed Clients",
+            "value": "99%"
+          }
+        ]
+      },
+      "features": {
+        "id": [
+          {
+            "title": "Arsitektur Ultra Cepat (< 0.8s)",
+            "desc": "Dioptimalkan dengan arsitektur Vite modern, code splitting, kompresi WebP, dan caching tingkat server untuk kecepatan akses instan."
+          },
+          {
+            "title": "Desain High-Converting UI/UX",
+            "desc": "Tata letak modern beraura korporat luxury dengan navigasi intuitif, mikro-interaksi dinamis, dan alur Call-to-Action (CTA) terarah."
+          },
+          {
+            "title": "Katalog Solusi & Layanan Lengkap",
+            "desc": "Menyajikan paket solusi terintegrasi: Landing Page, Company Profile, E-Commerce, Aplikasi Kasir Cloud POS, hingga Custom SaaS."
+          },
+          {
+            "title": "Sistem Manajemen Konten Mandiri",
+            "desc": "Dilengkapi portal admin dan API backend konten yang memudahkan update portofolio, layanan, dan testimoni secara realtime."
+          }
+        ],
+        "en": [
+          {
+            "title": "Ultra-Fast Architecture (< 0.8s)",
+            "desc": "Optimized with modern Vite architecture, code splitting, WebP asset compression, and server-grade caching for blazing speed."
+          },
+          {
+            "title": "High-Converting UI/UX Design",
+            "desc": "Modern luxury corporate aesthetic with intuitive navigation, fluid micro-interactions, and targeted conversion Call-to-Actions (CTAs)."
+          },
+          {
+            "title": "Comprehensive Solutions Catalog",
+            "desc": "Showcases full-suite digital solutions: Landing Pages, Corporate Profiles, E-Commerce, Cloud POS Systems, and Custom SaaS."
+          },
+          {
+            "title": "Self-Managed Content CMS",
+            "desc": "Equipped with an admin portal and live backend content API for seamless, real-time updates of projects, services, and testimonials."
+          }
+        ]
+      },
+      "challenges": {
+        "id": [
+          {
+            "challenge": "Mempertahankan animasi motion interaktif yang kaya tanpa mengorbankan skor Core Web Vitals dan LCP di perangkat seluler.",
+            "solution": "Menerapkan lazy-loading komponen Framer Motion, preload aset LCP kritis, serta isolasi render menggunakan Tailwind CSS."
+          },
+          {
+            "challenge": "Menghadirkan portal admin yang ringkas untuk manajemen konten dinamis tanpa overhead framework CMS berat.",
+            "solution": "Membangun endpoint API RESTful mandiri dengan autentikasi berbasis token dan sinkronisasi JSON aman."
+          }
+        ],
+        "en": [
+          {
+            "challenge": "Maintaining rich motion animations without compromising Core Web Vitals or LCP scores on mobile devices.",
+            "solution": "Implemented Framer Motion component lazy loading, critical LCP preloading, and scoped rendering via Tailwind CSS."
+          },
+          {
+            "challenge": "Delivering a lightweight admin portal for dynamic content updates without heavy CMS framework bloat.",
+            "solution": "Built a standalone RESTful API layer with secure token-based authentication and structured JSON synchronization."
+          }
+        ]
+      },
+      "learnings": {
+        "id": [
+          "Mendalami rekayasa web berorientasi konversi bisnis (conversion-driven web engineering).",
+          "Penguasaan teknik optimasi Core Web Vitals untuk mencapai skor PageSpeed sempurna (100).",
+          "Mengelola siklus pengembangan agensi dari penataan brand hingga peluncuran sistem digital."
+        ],
+        "en": [
+          "Deepened expertise in conversion-driven web engineering and enterprise digital positioning.",
+          "Mastered Core Web Vitals optimization techniques to achieve perfect (100) PageSpeed scores.",
+          "Managed agency-scale full lifecycle development from brand styling to system deployment."
+        ]
+      },
+      "roadmap": {
+        "id": [
+          "Kalkulator instan perkiraan biaya proyek dengan quotation PDF otomatis.",
+          "Integrasi live dashboard client portal untuk pelacakan progres pembuatan website.",
+          "AI Website Auditor otomatis untuk mengevaluasi performa web calon klien."
+        ],
+        "en": [
+          "Instant project cost estimator with automated PDF quotation generation.",
+          "Live client portal dashboard integration for real-time project milestone tracking.",
+          "Automated AI Website Auditor to evaluate prospective clients' site performance."
+        ]
+      },
+      "techStack": {
+        "frontend": [
+          "React.js",
+          "Tailwind CSS",
+          "Framer Motion",
+          "Vite"
+        ],
+        "cms": [
+          "RESTful API",
+          "Custom Admin Portal",
+          "JSON Storage"
+        ],
+        "optimization": [
+          "PWA Ready",
+          "PageSpeed 100",
+          "LCP < 0.8s",
+          "SEO Schema"
+        ],
+        "tools": [
+          "Figma",
+          "Hostinger Cloud",
+          "Git / GitHub"
+        ]
+      },
+      "gallery": [
+        "/projects/zcode-showcase.png"
+      ]
+    },
+    {
+      "id": "kasir-pintar-pos",
+      "slug": "kasir-pintar-pos",
+      "title": "Kasir Pintar POS",
+      "fullTitle": {
+        "id": "Kasir Pintar POS — Sistem Kasir & Monitoring Omzet Multi-Cabang Real-Time",
+        "en": "Kasir Pintar POS — Multi-Outlet Real-Time Cloud POS & Revenue Monitor"
+      },
+      "subtitle": {
+        "id": "Aplikasi POS & dashboard analitik cloud terintegrasi untuk bisnis F&B multi-outlet.",
+        "en": "Integrated cloud POS and analytics monitoring dashboard for multi-outlet F&B businesses."
+      },
+      "tagline": {
+        "id": "Aplikasi Kasir Cloud Real-Time dengan Monitoring Omzet Multi-Cabang, Audit Shift, dan Kontrol Hak Akses",
+        "en": "Real-Time Cloud POS App with Multi-Outlet Revenue Monitoring, Shift Auditing, and Access Control"
+      },
+      "category": {
+        "id": "Aplikasi Web & Cloud POS",
+        "en": "Web App & Cloud POS"
+      },
+      "badge": {
+        "id": "Sistem Kasir Pintar",
+        "en": "Smart Cloud POS"
+      },
+      "year": "2026",
+      "image": "/foto/kasir-pos-cover.png",
+      "liveUrl": "https://kasir-pintar-pos.web.app/",
+      "overview": {
+        "id": "Kasir Pintar POS adalah aplikasi kasir berbasis web dan cloud modern yang dirancang untuk mengelola operasional bisnis kuliner (seperti Soto Mie Bogor) dan ritel secara efisien. Sistem ini dilengkapi dengan pemantauan status terminal kasir real-time, monitoring omzet antar cabang otomatis, manajemen menu & porsi terlaris, serta audit shift dan pembatasan hak akses berjenjang.",
+        "en": "Kasir Pintar POS is a modern web and cloud-based point-of-sale application engineered for high-efficiency culinary (e.g. Soto Mie Bogor) and retail operations. It features real-time terminal status monitoring, automated multi-outlet revenue tracking, best-selling menu analytics, shift auditing, and tiered role-based access control."
+      },
+      "problem": {
+        "id": "Pemilik usaha kuliner dengan banyak cabang kesulitan memantau omzet penjualan secara langsung, mengaudit selisih kas pada setiap pergantian shift kasir, serta mengamankan pembatalan transaksi (void) tanpa otorisasi supervisor.",
+        "en": "Multi-branch F&B owners struggled to track live revenue across disparate outlets, reconcile cash discrepancies during cashier shift handovers, and prevent unauthorized transaction cancellations (voids)."
+      },
+      "details": {
+        "role": {
+          "id": "Fullstack Web Developer & UI/UX Designer",
+          "en": "Fullstack Web Developer & UI/UX Designer"
+        },
+        "timeline": {
+          "id": "2026",
+          "en": "2026"
+        },
+        "scope": {
+          "id": "Arsitektur frontend responsif, sinkronisasi database real-time, dashboard analitik multi-cabang, sistem audit shift kasir, dan integrasi otentikasi role berjenjang.",
+          "en": "Responsive frontend architecture, real-time database synchronization, multi-outlet analytics dashboard, cashier shift audit system, and role-based access control."
+        }
+      },
+      "metrics": {
+        "id": [
+          {
+            "label": "Sinkronisasi Data",
+            "value": "Real-Time"
+          },
+          {
+            "label": "Dukungan Cabang",
+            "value": "Multi-Outlet"
+          },
+          {
+            "label": "Deteksi Kasir Offline",
+            "value": "< 3s"
+          },
+          {
+            "label": "Audit Keamanan",
+            "value": "OTP / Void Log"
+          }
+        ],
+        "en": [
+          {
+            "label": "Data Sync",
+            "value": "Real-Time"
+          },
+          {
+            "label": "Outlet Support",
+            "value": "Multi-Outlet"
+          },
+          {
+            "label": "Offline Detection",
+            "value": "< 3s"
+          },
+          {
+            "label": "Security Audit",
+            "value": "OTP / Void Log"
+          }
+        ]
+      },
+      "features": {
+        "id": [
+          {
+            "title": "Live Terminal Monitor",
+            "desc": "Pelacakan status aktif/offline terminal kasir di setiap cabang secara real-time dengan auto-detect dalam 3 detik."
+          },
+          {
+            "title": "Monitoring Omzet Multi-Cabang",
+            "desc": "Visualisasi metrik komprehensif: total omzet, total struk transaksi, estimasi rata-rata per struk, dan total menu terjual dengan filter cabang instan."
+          },
+          {
+            "title": "Analisis Menu Terlaris",
+            "desc": "Peringkat penjualan otomatis untuk mendeteksi menu paling diminati dan mengoptimalkan persediaan bahan baku."
+          },
+          {
+            "title": "Audit Shift & Keamanan Kasir",
+            "desc": "Pencatatan sesi shift kasir, riwayat login pengguna, serta proteksi pembatalan transaksi (void) menggunakan OTP supervisor."
+          }
+        ],
+        "en": [
+          {
+            "title": "Live Terminal Monitor",
+            "desc": "Real-time tracking of active and offline cashier terminals across all outlets with automatic 3-second offline detection."
+          },
+          {
+            "title": "Multi-Branch Revenue Monitor",
+            "desc": "Comprehensive metrics visualization: gross revenue, receipt count, average ticket size, and items sold with instant outlet filtering."
+          },
+          {
+            "title": "Top-Selling Item Analytics",
+            "desc": "Automated menu rank tracking to identify top-performing dishes and optimize inventory purchasing."
+          },
+          {
+            "title": "Shift Audit & Cashier Security",
+            "desc": "Detailed shift session logs, user activity auditing, and supervisor OTP verification for transaction voids."
+          }
+        ]
+      },
+      "challenges": {
+        "id": [
+          {
+            "challenge": "Memastikan sinkronisasi data transaksi antar cabang tetap instan tanpa membebani performa browser.",
+            "solution": "Menerapkan listener real-time cloud teroptimasi dan state management reaktif dengan pembaruan delta data."
+          },
+          {
+            "challenge": "Mencegah kecurangan kasir dan selisih pembukuan kas pada jam sibuk.",
+            "solution": "Membangun sistem audit shift ketat dengan pencatatan saldo awal/akhir kas dan verifikasi log void."
+          }
+        ],
+        "en": [
+          {
+            "challenge": "Ensuring instant multi-branch transaction sync without degrading browser client performance.",
+            "solution": "Engineered optimized cloud real-time listeners and reactive state management with delta payload updates."
+          },
+          {
+            "challenge": "Preventing cashier fraud and cash drawer discrepancies during rush hours.",
+            "solution": "Built a strict shift auditing mechanism tracking opening/closing balances with void verification logging."
+          }
+        ]
+      },
+      "learnings": {
+        "id": [
+          "Pengembangan sistem POS cloud modern dengan arsitektur data real-time.",
+          "Desain antarmuka dashboard analitik bisnis yang intuitif untuk pemilik usaha dan staf operasional.",
+          "Penerapan kontrol hak akses keamanan berjenjang (Super Owner, Manajer Cabang, Kasir)."
+        ],
+        "en": [
+          "Modern cloud POS system development with real-time reactive data architecture.",
+          "Intuitive business analytics dashboard UI/UX design tailored for business owners and operational staff.",
+          "Implementation of tiered security access control (Super Owner, Branch Manager, Cashier)."
+        ]
+      },
+      "roadmap": {
+        "id": [
+          "Integrasi pencetakan struk termal Bluetooth nirkabel langsung dari browser / HP.",
+          "Integrasi pembayaran QRIS dinamis otomatis pada terminal kasir.",
+          "Modul manajemen inventaris & stok bahan baku otomatis berbasis resep."
+        ],
+        "en": [
+          "Direct wireless Bluetooth thermal receipt printing from browser / mobile.",
+          "Automated dynamic QRIS payment gateway integration at checkout terminals.",
+          "Recipe-based automated raw ingredient inventory and stock management module."
+        ]
+      },
+      "techStack": {
+        "frontend": [
+          "React.js",
+          "Tailwind CSS",
+          "JavaScript (ES6+)"
+        ],
+        "cms": [
+          "Firebase Cloud",
+          "Firestore Realtime",
+          "Firebase Hosting"
+        ],
+        "optimization": [
+          "PWA Ready",
+          "Real-Time Sync",
+          "Responsive UI"
+        ],
+        "tools": [
+          "Figma UI/UX",
+          "Git / GitHub",
+          "Firebase CLI"
+        ]
+      },
+      "gallery": [
+        "/foto/kasir-pos-cover.png"
+      ]
+    }
+  ],
+  "skillsCategories": [
+    {
+      "index": "01",
+      "title": {
+        "id": "CMS & Pembangun Web",
+        "en": "CMS & Web Builder"
+      },
+      "skills": [
+        {
+          "name": "WordPress",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg"
+        },
+        {
+          "name": "Elementor",
+          "icon": "/icons/elementor.svg"
+        },
+        {
+          "name": "Yoast SEO",
+          "icon": "/icons/yoast.svg"
+        }
+      ]
+    },
+    {
+      "index": "02",
+      "title": {
+        "id": "Frontend Dasar",
+        "en": "Frontend Core"
+      },
+      "skills": [
+        {
+          "name": "HTML",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+        },
+        {
+          "name": "CSS",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+        },
+        {
+          "name": "JavaScript (JS)",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+        }
+      ]
+    },
+    {
+      "index": "03",
+      "title": {
+        "id": "Framework & Kode",
+        "en": "Frameworks & Code"
+      },
+      "skills": [
+        {
+          "name": "React",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+        },
+        {
+          "name": "Tailwind CSS",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"
+        },
+        {
+          "name": "Python",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+        }
+      ]
+    },
+    {
+      "index": "04",
+      "title": {
+        "id": "Desain & Optimasi",
+        "en": "Design & Optimization"
+      },
+      "skills": [
+        {
+          "name": "Figma",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"
+        },
+        {
+          "name": "Canva",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"
+        },
+        {
+          "name": "SEO",
+          "icon": "/icons/seo.svg"
+        }
+      ]
+    }
+  ],
+  "certificates": [
+    {
+      "id": "cert-logistics",
+      "title": {
+        "id": "Sertifikat Koordinator Logistik",
+        "en": "Logistics Coordinator Certificate"
+      },
+      "issuer": "IYMPACK",
+      "year": "2025 – 2026",
+      "type": {
+        "id": "Kepemimpinan",
+        "en": "Leadership"
+      },
+      "image": "/sertifikat/sertif-helmi-page-1.png",
+      "accentColor": "#455CE9",
+      "skills": [
+        "Field Logistics",
+        "Team Coordination",
+        "Operations Management",
+        "Site Survey",
+        "Event Execution"
+      ]
+    },
+    {
+      "id": "cert-webdev",
+      "title": {
+        "id": "Sertifikat Web Development",
+        "en": "Web Development Certificate"
+      },
+      "issuer": "IYMPACK",
+      "year": "2026",
+      "type": {
+        "id": "Rekayasa Web",
+        "en": "Web Engineering"
+      },
+      "image": "/sertifikat/sertif-helmi-page-2.png",
+      "accentColor": "#00F0FF",
+      "skills": [
+        "WordPress Development",
+        "Elementor",
+        "Custom CSS3",
+        "Responsive UI/UX",
+        "PageSpeed Optimization"
+      ]
+    }
+  ],
+  "generatedAt": "2026-10-02T09:19:46.503Z"
+}

@@ -1,0 +1,24 @@
+<svg viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="fmGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00F0FF" />
+      <stop offset="100%" stop-color="#455CE9" />
+    </linearGradient>
+    <linearGradient id="fmSurf" x1="0%" y1="100%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38BDF8" stop-opacity="0.3" />
+      <stop offset="100%" stop-color="#818CF8" stop-opacity="0.8" />
+    </linearGradient>
+  </defs>
+  <!-- Background rounded plate -->
+  <rect width="48" height="48" rx="10" fill="#090D16" />
+  <!-- Matrix / Coordinate Grid -->
+  <path d="M8 38L24 44L40 38" stroke="#334155" stroke-width="1.5" stroke-linejoin="round" />
+  <path d="M24 10V44" stroke="#334155" stroke-width="1.5" stroke-dasharray="2 2" />
+  <!-- 3D Numerical Wave Surface -->
+  <path d="M10 32C14 26 18 18 24 22C30 26 34 16 38 28L40 38L24 44L8 38L10 32Z" fill="url(#fmSurf)" stroke="url(#fmGrad)" stroke-width="2" stroke-linejoin="round" />
+  <!-- Mesh lines -->
+  <path d="M16 25C20 30 28 32 32 24" stroke="#00F0FF" stroke-width="1.2" stroke-linecap="round" opacity="0.8" />
+  <path d="M14 36L24 22L34 34" stroke="#818CF8" stroke-width="1.2" stroke-linecap="round" opacity="0.7" />
+  <!-- FreeMat "F" Letter Monogram -->
+  <text x="24" y="20" font-family="system-ui, sans-serif" font-weight="900" font-size="14" fill="#FFFFFF" text-anchor="middle" letter-spacing="-1">F</text>
+</svg>

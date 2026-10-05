@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="id" class="scroll-smooth dark">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/png" href="/favicon.png" />
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+    <title>Helmi Zaki Athallah | Web Creator &amp; Electrical Engineering Student</title>
+    <meta name="description" content="Portfolio of Helmi Zaki Athallah — Electrical Engineering Student at Universitas Pamulang, WordPress & Elementor Specialist, and Frontend Developer." />
+    
+    <!-- DNS Prefetch & Preconnect for Fast Asset Delivery -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin />
+    <link rel="dns-prefetch" href="https://images.unsplash.com" />
+    <link rel="dns-prefetch" href="https://helmizakiathallah.my.id" />
+
+    <!-- Google Fonts Optimized -->
+    <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Inter:wght@400;500;600;700&family=Playfair+Display:ital,wght@0,400;0,700;1,400&family=Syne:wght@700;800&display=swap" rel="stylesheet" />
+
+    <!-- Preload Background Audio for Instant Buffer -->
+    <link rel="preload" href="/music.mp3" as="audio" type="audio/mpeg" />
+
+    <!-- Instant Headless Background Audio Engine (Loads Before React) -->
+    <script>
+      (function() {
+        if (window.__bgAudio) return;
+        try {
+          var audio = new Audio('/music.mp3');
+          audio.loop = true;
+          audio.volume = 0.7;
+          audio.preload = 'auto';
+          window.__bgAudio = audio;
+
+          function startAudio() {
+            if (!audio.paused) return;
+            var p = audio.play();
+            if (p !== undefined) {
+              p.then(function() {
+                cleanListeners();
+              }).catch(function() {});
+            }
+          }
+
+          var events = ['click', 'touchstart', 'touchend', 'pointerdown', 'pointerup', 'keydown', 'scroll', 'wheel'];
+          function cleanListeners() {
+            events.forEach(function(evt) {
+              window.removeEventListener(evt, startAudio, true);
+              document.removeEventListener(evt, startAudio, true);
+            });
+          }
+
+          // Immediate play attempt
+          startAudio();
+
+          // Eager capture on any interaction to start audio with zero lag
+          events.forEach(function(evt) {
+            window.addEventListener(evt, startAudio, { capture: true, passive: true });
+            document.addEventListener(evt, startAudio, { capture: true, passive: true });
+          });
+        } catch (e) {}
+      })();
+    </script>
+    <script type="module" crossorigin src="/assets/index-Ff1KEPvL.js"></script>
+    <link rel="stylesheet" crossorigin href="/assets/index-BjEp7og3.css">
+  </head>
+  <body class="bg-[#0e0e11] text-zinc-100 antialiased selection:bg-[#455CE9]/30 selection:text-white overflow-x-hidden">
+    <div id="root"></div>
+  </body>
+</html>
